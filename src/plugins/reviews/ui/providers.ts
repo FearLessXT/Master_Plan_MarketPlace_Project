@@ -18,11 +18,11 @@ export default [
     addNavMenuItem(
         {
             id: 'reviews',
-            label: 'Product reviews',
+            label: 'Product Reviews',
             routerLink: ['/extensions/product-reviews'],
             icon: 'star',
         },
-        'marketing',
+        'sales',
     ),
     registerDashboardWidget('reviews', {
         title: 'Latest reviews',
