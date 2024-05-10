@@ -23,11 +23,11 @@ export const config: VendureConfig = {
         adminApiPlayground: {
             settings: { 'request.credentials': 'include' },
         },
-        adminApiDebug: true,
+        adminApiDebug: false,
         shopApiPlayground: {
             settings: { 'request.credentials': 'include' },
         },
-        shopApiDebug: true,
+        shopApiDebug: false,
     },
     authOptions: {
         cookieOptions: {
