@@ -1,8 +1,6 @@
 # Real World Vendure
 
-This project demonstrates a real-world [Vendure](https://www.vendure.io/) server setup. It was generated with [`@vendure/create`](https://github.com/vendure-ecommerce/vendure/tree/master/packages/create), but adds extra tooling and includes some example real-world plugins.
-
-![Screenshot of the Admin UI product details page with reviews](./product-reviews-screenshot.webp)
+This project demonstrates a real-world [Vendure](https://www.vendure.io/) server setup. It was generated with [`@vendure/create`](https://github.com/vendure-ecommerce/vendure/tree/master/packages/create), but adds extra tooling and includes some example real-world plugins
 
 ## Getting Started
 
